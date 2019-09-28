@@ -38,16 +38,16 @@ Data was collected from the Baltimore open data system.  Crime data was cleaned 
 
 ![Baltimore Shootings:](https://github.com/bagerson/Baltimore_CCTV_project2/blob/master/Screen%20Shot%202019-09-28%20at%2010.19.23%20AM.png "Baltimore Shootings Heatmap")
 
-![Baltimore Homicides](https://github.com/bagerson/Baltimore_CCTV_project2/blob/master/Screen%20Shot%202019-09-28%20at%2010.19.41%20AM.png "Baltimore Homicides Heatmap")
+![Baltimore Homicides](https://github.com/bagerson/Baltimore_CCTV_project2/blob/master/Screen%20Shot%202019-09-28%20at%2010.19.41%20AM.png)
 
 In the cases of violent crimes, such as shootings and homicides, it became immediatedly clear that camera placement had little to do with violent crime.   Homicides occurred on the same stretchs of commercial streets with CCTV cameras, or nearby.  
 
-![Baltimore Larceny](https://github.com/bagerson/Baltimore_CCTV_project2/blob/master/Screen%20Shot%202019-09-28%20at%2010.20.18%20AM.png "Baltimore Larceny Heatmap")
+![Homicide Detail](https://github.com/bagerson/Baltimore_CCTV_project2/blob/master/Screen%20Shot%202019-09-28%20at%2010.36.27%20AM.png "Homicide Detail")
 
 
 Petty crimes such as larceny were widespread and bore little to no relationship with CCTV cameras.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Baltimore Larceny](https://github.com/bagerson/Baltimore_CCTV_project2/blob/master/Screen%20Shot%202019-09-28%20at%2010.20.18%20AM.png "Baltimore Larceny Heatmap")
 
 
 The presentation website also explores the relationship between race, income and crime.  Census data seems to indicate that crime is related to locations where there is a larger non-white population and lower household income.
